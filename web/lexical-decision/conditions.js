@@ -10,6 +10,7 @@ let conditions = [
             { characters: 'mub', isWord: false },
         ],
     },
+    /*
     {
         title: 'Part 2',
         count: 4,
@@ -30,4 +31,5 @@ let conditions = [
             { characters: 'kandy', isWord: false },
         ]
     }
+    */
 ];
