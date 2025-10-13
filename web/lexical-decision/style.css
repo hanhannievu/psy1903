@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    color: white
+}
+
+
+.instructions {
+    color: blue;
+    font-size: 36px;
+    line-height: 2;
+}

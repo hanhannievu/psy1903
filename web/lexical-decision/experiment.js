@@ -10,7 +10,7 @@ let welcomeTrial = {
     <p>You are about to see a series of characters.</p> 
     <p>Press F if the characters make up a word.</p> 
     <p>Press J if the characters do not make up a word.</p> 
-    <p>Press SPACE to begin</p>
+    <p class = 'instructions'>Press SPACE to begin</p>
     `,
     choices: [' '],
 };
