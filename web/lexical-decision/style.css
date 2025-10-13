@@ -1,11 +1,19 @@
 body {
     background-color: black;
-    color: white
+    color: white;
 }
 
-
 .instructions {
-    color: blue;
-    font-size: 36px;
     line-height: 2;
+}
+
+.key {
+    border: 1px solid white;
+    border-radius: 2px;
+    display: inline-block;
+    padding: 5px 10px;
+}
+
+.incorrect {
+    color: red;
 }
